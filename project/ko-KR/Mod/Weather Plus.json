@@ -1,0 +1,7 @@
+{
+  "Options.SECTION[WeatherPlus.WeatherPlus.Mod]": "날씨 플러스(Weather Plus)",
+	"Options.GROUP[WeatherPlus.WeatherPlus.Mod.Button]": "설정 사용 안함 공지사항",
+	"Options.OPTION[WeatherPlus.WeatherPlus.Mod.Setting.Button]": "설정 사용 안함 안내사항",
+  "Options.OPTION_DESCRIPTION[WeatherPlus.WeatherPlus.Mod.Setting.Button]": "날씨 플러스 모드는 인게임 설정이 아닌 좌측 상단의 서류가방 아이콘을 클릭하여 사용이 가능합니다(체크 안해도 됨)",
+//	"tab-label[WeatherPlus.WeatherPlus.Mod.clock]": "시간 변경",  can't find UI too code XD. someday, fix will
+}
